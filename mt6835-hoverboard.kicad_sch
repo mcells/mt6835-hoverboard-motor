@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "702f1b10-2921-44ce-b5d4-f48e6a6f66e6")
 	(paper "A4")
+	(title_block
+		(title "MT6835 Breakout (eg. for Hoverboard Motors)")
+		(date "2024-07-08")
+		(rev "1.1")
+		(company "mcells")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x06"
 			(pin_names
@@ -2692,22 +2698,22 @@
 			)
 		)
 		(pin "1"
-			(uuid "476e1644-c79f-483f-a988-30b4733d47cd")
+			(uuid "476e1644-c79f-483f-a988-30b4733d47ce")
 		)
 		(pin "6"
-			(uuid "bfb06a2f-3f9d-4137-89dd-83bad9b4c78b")
+			(uuid "bfb06a2f-3f9d-4137-89dd-83bad9b4c78c")
 		)
 		(pin "3"
-			(uuid "b1ef049c-4654-47ff-9fb8-1f38844bcc38")
+			(uuid "b1ef049c-4654-47ff-9fb8-1f38844bcc39")
 		)
 		(pin "4"
-			(uuid "f3f7dbd9-4218-4cdd-a2e5-2e79f4978df3")
+			(uuid "f3f7dbd9-4218-4cdd-a2e5-2e79f4978df4")
 		)
 		(pin "2"
-			(uuid "ab1a29e5-4a98-4fda-bf2d-af27e3da3f1d")
+			(uuid "ab1a29e5-4a98-4fda-bf2d-af27e3da3f1e")
 		)
 		(pin "5"
-			(uuid "026cf6b6-b0e2-44c5-84eb-374c4425ebe3")
+			(uuid "026cf6b6-b0e2-44c5-84eb-374c4425ebe4")
 		)
 		(instances
 			(project "mt6835-hoverboard"
@@ -2774,7 +2780,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4837c914-ed92-4376-9a2e-4cf08736325d")
+			(uuid "4837c914-ed92-4376-9a2e-4cf08736325e")
 		)
 		(instances
 			(project "mt6835-hoverboard"
@@ -2973,22 +2979,22 @@
 			)
 		)
 		(pin "1"
-			(uuid "476e1644-c79f-483f-a988-30b4733d47cd")
+			(uuid "476e1644-c79f-483f-a988-30b4733d47cf")
 		)
 		(pin "6"
-			(uuid "bfb06a2f-3f9d-4137-89dd-83bad9b4c78b")
+			(uuid "bfb06a2f-3f9d-4137-89dd-83bad9b4c78d")
 		)
 		(pin "3"
-			(uuid "b1ef049c-4654-47ff-9fb8-1f38844bcc38")
+			(uuid "b1ef049c-4654-47ff-9fb8-1f38844bcc3a")
 		)
 		(pin "4"
-			(uuid "f3f7dbd9-4218-4cdd-a2e5-2e79f4978df3")
+			(uuid "f3f7dbd9-4218-4cdd-a2e5-2e79f4978df5")
 		)
 		(pin "2"
-			(uuid "ab1a29e5-4a98-4fda-bf2d-af27e3da3f1d")
+			(uuid "ab1a29e5-4a98-4fda-bf2d-af27e3da3f1f")
 		)
 		(pin "5"
-			(uuid "026cf6b6-b0e2-44c5-84eb-374c4425ebe3")
+			(uuid "026cf6b6-b0e2-44c5-84eb-374c4425ebe5")
 		)
 		(instances
 			(project "mt6835-hoverboard"
