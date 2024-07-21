@@ -8,7 +8,7 @@ MT6835 Breakout board, eg. for mounting inside Hoverboard motors
 ## Features
 - MT6835 Encoder
 - 25x25mm diagonal M3 mounting holes that are removable by breakaway sections
-- 14.2mm diameter, making it small enough to (hopefully) fit onto the 15mm shaft of Hoverboard motors
+- 14.2mm diameter, making it small enough to fit onto the 15mm shaft of Hoverboard motors
 - M2 mounting holes, 10.6mm apart to facilitate mounting.
   - Nonconductive screws or spacers are necessary to prevent shorts!
   - Designed to be screwed into corresponding M2 holes drilled and tapped into the shaft, the cabling will go through the drilled-out center of the shaft.
@@ -44,7 +44,7 @@ Installing the sensor board inside a Hoverboard motor requires you to have acces
 | Step | Image | Description |
 | ---- | ----- | ----------- |
 |   1  |       | Disassemble the Motor, until you have just the bare Stator. Desolder and pull out all wires, so you can drill through the shaft.|
-|   2  | ![Step 2](./img/Step2.JPG) | Drill a 5mm Hole inside the top of the stator shaft. There is a centered "dimple" already in the shaft, which helps with centering the drill enormously. You have to drill about 25mm until you break through to the hollow shaft. |
+|   2  | ![Step 2](./img/Step2.JPG) | Drill a 5mm Hole inside the top of the stator shaft. There is a centered "dimple" already in the shaft, which helps with centering the drill enormously. You want everything to be as concentric as possible, else you will get a periodic nonlinearity in the measured angle! You have to drill about 25mm until you break through to the hollow shaft. |
 |   3  | ![Step 3](./img/Step3.JPG) | Remove the drill bit from the drill and put it most of the way through the new hole, so that just protrudes at the top. Use the drill bit to locate the template PCB on the center of the shaft. | 
 |   4  | ![Step 4](./img/Step4.JPG) | Using a M2 drill bit, pre drill two "dimples", so you can later locate with the smaller drill bit. When drilling the second dimple, use something like a small allen wrench in the first dimple to hold the template in place. |
 |   5  | ![Step 5](./img/Step5.JPG) | Drill the two holes with a 1.6mm or 1.7mm bit and tap the holes to M2. You can use a 1.7mm drill to ease the tapping, as the threads don´t need to support any significant load. Also refrain from tapping more than a few mm deep, as it is absolutely not neccesary and just increases the risk of your tap snapping off. |
