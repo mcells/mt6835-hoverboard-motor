@@ -1,6 +1,10 @@
 # mt6835-hoverboard-motor
 MT6835 Breakout board, eg. for mounting inside Hoverboard motors
 
+| Front | Back |
+| ----- | ---- | 
+| ![Top side](./img/front-photo.JPG) | ![Top side](./img/back-photo.JPG) |
+
 ## Features
 - MT6835 Encoder
 - 25x25mm diagonal M3 mounting holes that are removable by breakaway sections
@@ -16,7 +20,7 @@ MT6835 Breakout board, eg. for mounting inside Hoverboard motors
   - UVW and ABZ (together with CAL and PWM pins) on 1mm Pitch headers (due to space constraints)
 - TVS diode footprint can accept the one from the breakout board commonly available on Aliexpress
 - Sleek design
-## Images
+## Renders
 ![Top side](./img/mt6835-hoverboard-top.png)
 
 ![Bottom side](./img/mt6835-hoverboard-bottom.png)
