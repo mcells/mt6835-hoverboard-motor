@@ -6199,7 +6199,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "rev 1.1"
+	(gr_text "rev 1.2"
 		(at 151.6 96.6 340)
 		(layer "B.SilkS" knockout)
 		(uuid "15d9fe69-caeb-46b9-9169-260c546622dd")
@@ -6212,7 +6212,7 @@
 		)
 	)
 	(gr_text "CAL\nW\nV\nU\n+\n-"
-		(at 147.1 92.8 0)
+		(at 147.35 92.8 0)
 		(layer "B.SilkS")
 		(uuid "42abe7d9-1744-424a-90f3-2f8e6ad8147d")
 		(effects
@@ -6236,7 +6236,7 @@
 		)
 	)
 	(gr_text "PWM\nZ\nB\nA\n+\n-"
-		(at 152.905 92.8425 0)
+		(at 152.65 92.85 0)
 		(layer "B.SilkS")
 		(uuid "9a191bd7-9145-443d-9e49-e79fdb7164c8")
 		(effects
